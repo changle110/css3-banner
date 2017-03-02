@@ -23,4 +23,4 @@ git push -u origin master
 
 
 
-https://changle110.github.io/css3-banner
+https://changle110.github.io/css3-banner/banner.html
