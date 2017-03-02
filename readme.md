@@ -1,4 +1,4 @@
-### 轻松玩转github
+﻿### 轻松玩转github
 1.git 的安装
 2.获取源代码
   git clone https://github.com/lihongmi/canvas_sub.git
@@ -21,3 +21,5 @@ git push origin -d gh-pages
 6. 展示个人项目
 	gh-pages
 	https://lihongmi.github.io/canvas_sub
+
+https://changle110.github.io/css3-banner /banner.html
